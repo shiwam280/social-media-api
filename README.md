@@ -7,4 +7,5 @@
      - PORT
      - JWT_SECRET
      - JWT_EXPIRES
-
+- npm init for NODE_MODULES
+- run command -> node index.js 
